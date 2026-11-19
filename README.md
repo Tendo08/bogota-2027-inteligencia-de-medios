@@ -254,6 +254,6 @@ Los scripts de `codigo/1_datos_y_scraping/` están numerados en el orden en que 
 
 ## Sobre mí
 
-**Diego Umbarila.** Uno el análisis social con herramientas de datos para entender cómo se construye la opinión pública y convertirlo en decisiones de comunicación. Proyecto desarrollado en el curso Sociología de la Información y los Medios (2026).
+**Diego Alexander Umbarila Forero**, estudiante de Sociología en la Fundación Universitaria del Área Andina (Bogotá). Uno el análisis social con herramientas de datos para entender cómo se construye la opinión pública y convertirlo en decisiones de comunicación. Proyecto desarrollado en el curso Sociología de la Información y los Medios (2026).
 
-📫 Contacto: a través de mi perfil de GitHub, [@Tendo08](https://github.com/Tendo08).
+💼 [LinkedIn](https://www.linkedin.com/in/diego-alexander-umbarila-forero-068bab341/) · 💻 [GitHub](https://github.com/Tendo08)
