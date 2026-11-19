@@ -1,0 +1,149 @@
+{
+ "fuente": "Google Trends, Búsqueda web, todas las categorías, consultado el 11-nov-2026 en trends.google.com (versión clásica de Explorar). Términos de búsqueda, no temas.",
+ "comparacion_anual_colombia": {
+  "ventana": "2026-01-01 a 2026-11-11, semanal",
+  "terminos": [
+   "Carlos Carrillo",
+   "Juan Daniel Oviedo",
+   "Claudia López",
+   "Paloma Valencia",
+   "Enrique Peñalosa"
+  ],
+  "promedios": [
+   1,
+   2,
+   1,
+   10,
+   0
+  ],
+  "semanas": "28 dic 0/0/0/2/0; 4 ene 0/0/0/2/0; 11 ene 0/0/0/16/0; 18 ene 0/0/1/4/0; 25 ene 0/1/0/5/1; 1 feb 0/1/1/3/1; 8 feb 0/1/1/3/0; 15 feb 0/1/0/3/0; 22 feb 0/1/1/4/0; 1 mar 0/5/1/7/1; 8 mar 0/27/5/100/1; 15 mar 1/4/1/14/0; 22 mar 0/1/0/8/0; 29 mar 0/1/1/7/0; 5 abr 0/1/1/9/0; 12 abr 1/1/2/17/0; 19 abr 5/2/1/12/0; 26 abr 1/3/1/19/0; 3 may 2/9/1/25/0; 10 may 0/1/2/21/0; 17 may 0/3/2/41/0; 24 may 0/2/3/47/0; 31 may 4/9/14/35/1; 7 jun 6/3/2/2/0; 14 jun 2/1/3/5/0; 21 jun 1/0/9/9/0; 28 jun 0/0/0/2/0; 5 jul 0/0/0/3/0; 12 jul 1/0/0/1/0; 19 jul 2/0/0/9/0; 26 jul 3/0/0/3/0; 2 ago 0/0/0/6/0; 9 ago 1/0/0/1/0; 16 ago 0/0/4/1/0; 23 ago 6/0/0/1/0; 30 ago 0/0/0/1/1; 6 sept 1/0/2/0/0; 13 sept 9/1/1/0/0; 20 sept 1/0/1/0/0; 27 sept 2/0/0/0/0; 4 oct 5/0/0/0/0; 11 oct 5/0/0/1/0; 18 oct 0/0/0/0/0; 25 oct 0/0/0/0/0; 1 nov 0/1/0/0/0; 8 nov 0/0/0/0/0 (parcial)",
+  "bogota_participacion_pct": [
+   8,
+   12,
+   9,
+   69,
+   2
+  ]
+ },
+ "comparacion_ventana_mapa_colombia": {
+  "ventana": "2026-06-01 a 2026-11-11, diaria",
+  "promedios": [
+   3,
+   1,
+   3,
+   5,
+   0
+  ],
+  "suma_diaria_por_mes": {
+   "2026-06": [
+    144,
+    165,
+    325,
+    527,
+    4
+   ],
+   "2026-07": [
+    67,
+    0,
+    0,
+    183,
+    0
+   ],
+   "2026-08": [
+    70,
+    0,
+    55,
+    90,
+    0
+   ],
+   "2026-09": [
+    147,
+    5,
+    48,
+    4,
+    14
+   ],
+   "2026-10": [
+    142,
+    0,
+    0,
+    3,
+    0
+   ],
+   "2026-11 (hasta el 11)": [
+    1,
+    9,
+    1,
+    6,
+    0
+   ]
+  },
+  "picos_carrillo_dia": {
+   "2 jun": 25,
+   "10 jun": 54,
+   "23 jul": 14,
+   "26 jul": 29,
+   "26 ago": 47,
+   "27 ago": 23,
+   "18 sept": 100,
+   "19 sept": 29,
+   "2 oct": 26,
+   "6 oct": 55,
+   "14 oct": 52
+  },
+  "bogota_participacion_pct": [
+   28,
+   10,
+   23,
+   36,
+   3
+  ]
+ },
+ "carrillo_solo_colombia_semanal": {
+  "ventana": "2026-01-01 a 2026-11-11",
+  "semanas": "28 dic 0; 4 ene 0; 11 ene 5; 18 ene 3; 25 ene 0; 1 feb 2; 8 feb 2; 15 feb 0; 22 feb 0; 1 mar 2; 8 mar 2; 15 mar 7; 22 mar 5; 29 mar 3; 5 abr 0; 12 abr 16; 19 abr 59; 26 abr 11; 3 may 18; 10 may 2; 17 may 0; 24 may 2; 31 may 45; 7 jun 64; 14 jun 21; 21 jun 8; 28 jun 4; 5 jul 5; 12 jul 15; 19 jul 25; 26 jul 29; 2 ago 0; 9 ago 6; 16 ago 4; 23 ago 66; 30 ago 0; 6 sept 15; 13 sept 100; 20 sept 7; 27 sept 25; 4 oct 54; 11 oct 56; 18 oct 3; 25 oct 1; 1 nov 1; 8 nov 2",
+  "consultas_relacionadas": "Google Trends: 'Tu búsqueda no tiene suficientes datos para mostrar resultados' (temas y consultas relacionadas)"
+ },
+ "carrillo_12_meses_colombia": {
+  "enlace": "https://trends.google.com/trends/explore?date=today%2012-m&geo=CO&q=Carlos%20Carrillo (consultado el 11-nov-2026)",
+  "nota": "La serie semanal coincide con la de enero-noviembre; antes de 2026 solo hay un pico menor en diciembre de 2025 (13).",
+  "temas_principales": {
+   "Carlos Carrillo Arenas (Político colombiano)": 100,
+   "Abelardo de la Espriella": 3,
+   "Gustavo Petro": 3,
+   "UNGRD (tema)": 1,
+   "Entrevista periodística (tema)": 1,
+   "Juan Carlos Carrillo (boxeador)": 0,
+   "Centro Democrático": 0,
+   "Fernando Carrillo (actor)": 0
+  },
+  "consultas_principales": {
+   "carlos carrillo arenas": 100,
+   "abelardo de la espriella": 4,
+   "ungrd": 3,
+   "carlos carrillo ungrd": 3,
+   "juan carlos carrillo": 3,
+   "quien es carlos carrillo": 2,
+   "gustavo petro": 2,
+   "fernando carrillo": 1,
+   "juliana guerrero": 1,
+   "luz adriana camargo": 1
+  },
+  "consultas_en_ascenso": {
+   "abelardo de la espriella": "aumento puntual",
+   "juliana guerrero": "aumento puntual",
+   "reforma": "aumento puntual",
+   "carlos carrillo arenas": "+1.150 %",
+   "quien es carlos carrillo": "+130 %"
+  },
+  "subregiones": {
+   "Bogotá": 100,
+   "Cundinamarca": 92,
+   "Caldas": 91,
+   "Tolima": 90,
+   "Santander": 89,
+   "Boyacá": 87,
+   "Antioquia": 83
+  }
+ }
+}
